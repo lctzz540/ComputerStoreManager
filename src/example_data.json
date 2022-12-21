@@ -1,0 +1,39 @@
+[
+    {
+        "Model" : "Laptop Gaming Acer Aspire 7 A715 42G R05G",
+        "BrandName" : "Acer",
+        "CPU" : "AMD Ryzen 5 – 5500U (6 nhân 12 luồng)",
+        "RAM" : "8GB DDR4 (2x SO-DIMM socket, up to 32GB SDRAM)",
+        "ROM" : "512GB PCIe® NVMe™ M.2 SSD",
+        "VGA" : "NVIDIA GeForce GTX 1650 4GB GDDR6",
+        "MONITOR_SIZE": "15.6",
+        "MONITOR_RESOLUTION": "FHD",
+        "amount" : 20,
+        "kind" : "Laptop",
+        "price": 16990000
+    },
+    {
+        "Model" : "Laptop gaming MSI Katana GF66 11UC 224VN",
+        "BrandName" : "MSI",
+        "CPU" : "Intel Core i7-11800H 2.3GHz up to 4.6GHz 24MB, 8 nhân, 16 luồng",
+        "RAM" : "8GB DDR4 3200MHz (2x SO-DIMM socket, up to 64GB SDRAM)",
+        "ROM" : "512GB NVMe PCIe Gen3x4 SSD (1 slot)",
+        "VGA" : "NVIDIA® GeForce RTX™ 3050 4GB GDDR6",
+        "MONITOR_SIZE": "15.6",
+        "MONITOR_RESOLUTION": "FHD",
+        "amount" : 31,
+        "kind" : "Laptop",
+        "price" : 21990000
+    },
+    {
+        "Model" : "Bàn phím AKKO PC75B Plus Year of Tiger",
+        "BrandName" : "Akko",
+        "Type" : 75,
+        "Switch": "AKKO CS Switch (Silver / Wine Red) đều đã được lube sẵn",
+        "Keycap": "PBT Dye-Subbed, JDA profile",
+        "Hotswap": true,
+        "amount" : 31,
+        "kind" : "Keyboard",
+        "price" : 21990000
+    }
+]
